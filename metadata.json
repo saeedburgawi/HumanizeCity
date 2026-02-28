@@ -1,5 +1,0 @@
-{
-  "name": "HumanizeCity",
-  "description": "A responsive platform for humanizing Saudi cities through user engagement, IoT-enabled smart seating, and AI-driven urban insights.",
-  "requestFramePermissions": ["geolocation"]
-}
