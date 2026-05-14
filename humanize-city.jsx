@@ -1,4 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/humanize-city.jsx b/humanize-city.jsx
 index 4ab3bfac182b940d395b767c0156a6c7d6c04711..e84a2e069650a4cb6f10ab991e64e752da72df66 100644
 --- a/humanize-city.jsx
@@ -148,6 +147,3 @@ index 4ab3bfac182b940d395b767c0156a6c7d6c04711..e84a2e069650a4cb6f10ab991e64e752
              letterSpacing: "0.05em"
            }}
          >
- 
-EOF
-)
