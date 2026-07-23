@@ -25,3 +25,17 @@ License
 Citation
 
 Acknowledgements
+
+## Roadmap
+
+### Near Term
+- [ ] Improve documentation
+- [ ] Add GIS integration
+- [ ] Add urban indicator calculations
+- [ ] Add interactive dashboards
+
+### Long Term
+- [ ] Public API
+- [ ] AI-assisted urban analysis
+- [ ] Mobile data collection
+- [ ] Open urban datasets
