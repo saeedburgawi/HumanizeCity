@@ -8,6 +8,17 @@
 Open-source platform for human-centered urban analytics, architectural research, and AI-assisted city planning.
 </h3>
 
+## 📚 Documentation
+
+| Document | Description |
+|----------|-------------|
+| [Introduction](docs/introduction.md) | Project overview and vision |
+| [Architecture](docs/architecture.md) | System architecture |
+| [Installation](docs/installation.md) | Setup instructions |
+| [Roadmap](docs/roadmap.md) | Development roadmap |
+| [FAQ](docs/faq.md) | Frequently asked questions |
+| [API](docs/api.md) | API documentation |
+
 # 🏙 HumanizeCity
 
 **HumanizeCity** is an open-source research platform that integrates architecture, urban planning, GIS, and artificial intelligence to support evidence-based, human-centered city design.
