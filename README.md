@@ -12,12 +12,14 @@ Open-source platform for human-centered urban analytics, architectural research,
 
 | Document | Description |
 |----------|-------------|
-| [Introduction](docs/introduction.md) | Project overview and vision |
-| [Architecture](docs/architecture.md) | System architecture |
-| [Installation](docs/installation.md) | Setup instructions |
-| [Roadmap](docs/roadmap.md) | Development roadmap |
+| [Introduction](docs/introduction.md) | Project vision, objectives, and target users |
+| [Architecture](docs/architecture.md) | System architecture and component overview |
+| [Methodology](docs/methodology.md) | Research methodology and design principles |
+| [Installation](docs/installation.md) | Installation and setup guide |
+| [Datasets](docs/datasets.md) | Available datasets and data sources |
+| [Roadmap](docs/roadmap.md) | Planned features and development milestones |
+| [Publications](docs/publications.md) | Related research papers and publications |
 | [FAQ](docs/faq.md) | Frequently asked questions |
-| [API](docs/api.md) | API documentation |
 
 # 🏙 HumanizeCity
 
