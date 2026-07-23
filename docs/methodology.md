@@ -9,9 +9,13 @@ The project integrates architectural knowledge, urban planning principles, spati
 ---
 ## From Research to Practice
 
-HumanizeCity aims to translate academic research into practical digital tools.
+A significant amount of valuable research in architecture and urban planning remains confined to academic publications, making it difficult for practitioners and decision-makers to apply its findings in real-world contexts.
 
-Rather than publishing research findings alone, the project seeks to transform methodologies, indicators, standards, and analytical frameworks into reusable open-source software that can support researchers, practitioners, and decision-makers.
+HumanizeCity seeks to bridge this gap by transforming research outputs into practical, reusable, and open-source digital tools.
+
+Rather than stopping at the publication of research findings, the project aims to convert methodologies, indicators, design standards, analytical frameworks, and decision-support models into software components that can be shared, improved, and applied by researchers, practitioners, public agencies, and the broader open-source community.
+
+This philosophy guides the development of every module within HumanizeCity.
 
 ---
 
