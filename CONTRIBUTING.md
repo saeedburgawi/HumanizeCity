@@ -1,19 +1,35 @@
-# Contributing
+# Contributing to HumanizeCity
 
 Thank you for your interest in contributing to HumanizeCity.
 
-We welcome contributions in:
+We welcome contributions related to:
 
 - Urban analytics
-- GIS
+- GIS and spatial analysis
 - Data visualization
-- AI applications
-- Documentation
-- Bug fixes
+- Documentation improvements
+- Bug reports
+- Feature suggestions
 
-Please:
+## Getting Started
 
-1. Open an issue first.
-2. Discuss major changes before implementation.
-3. Follow existing coding standards.
-4. Submit a pull request for review.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+## Reporting Issues
+
+Please include:
+
+- A clear description of the issue
+- Steps to reproduce
+- Screenshots if applicable
+
+## Code Style
+
+Keep code readable and well documented.
+
+## Questions
+
+Open an issue if you are unsure where to start.
