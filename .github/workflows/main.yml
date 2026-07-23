@@ -1,0 +1,19 @@
+name: Basic CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify repository structure
+        run: |
+          test -f README.md
+          test -f LICENSE
+          echo "Repository structure is valid"
