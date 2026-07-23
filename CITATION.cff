@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "HumanizeCity"
+message: "If you use HumanizeCity in your research, please cite this repository."
+type: software
+
+authors:
+  - family-names: "Alburgawi"
+    given-names: "Saeed Ali"
+    orcid: "https://orcid.org/0000-0002-4244-2902"
+
+repository-code: "https://github.com/saeedburgawi/HumanizeCity"
+
+url: "https://github.com/saeedburgawi/HumanizeCity"
+
+license: MIT
+
+version: "0.1.0"
+
+date-released: "2026-07-23"
