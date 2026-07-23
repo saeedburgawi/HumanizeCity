@@ -7,6 +7,13 @@ HumanizeCity follows a research-driven and evidence-based methodology for develo
 The project integrates architectural knowledge, urban planning principles, spatial analysis, data science, and artificial intelligence into a reproducible workflow.
 
 ---
+## From Research to Practice
+
+HumanizeCity aims to translate academic research into practical digital tools.
+
+Rather than publishing research findings alone, the project seeks to transform methodologies, indicators, standards, and analytical frameworks into reusable open-source software that can support researchers, practitioners, and decision-makers.
+
+---
 
 ## Core Principles
 
@@ -100,3 +107,25 @@ Future releases will incorporate:
 - agent-based simulations
 - AI-assisted planning
 - explainable AI methods
+---
+## Research Framework
+
+HumanizeCity adopts a layered research framework that transforms urban questions into actionable knowledge.
+
+Research Question
+        ↓
+Urban Theory
+        ↓
+Planning Framework
+        ↓
+Data Collection
+        ↓
+Data Processing
+        ↓
+Spatial Analysis
+        ↓
+AI Models
+        ↓
+Visualization
+        ↓
+Decision Support
