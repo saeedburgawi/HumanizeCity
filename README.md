@@ -5,15 +5,22 @@
 <h1 align="center">🏙 HumanizeCity</h1>
 
 <p align="center">
-<b>An Open-Source Ecosystem for Human-Centered Urban Analytics, Research, and AI-Assisted Planning.</b>
+<strong>An Open-Source Ecosystem for Human-Centered Urban Analytics, Research, and AI-Assisted Planning.</strong>
 </p>
 
 <p align="center">
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Active%20Development-blue.svg)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success.svg)
-![Research](https://img.shields.io/badge/Research-Human--Centered-orange.svg)
+![License](https://img.shields.io/github/license/saeedburgawi/HumanizeCity)
+
+![Release](https://img.shields.io/github/v/release/saeedburgawi/HumanizeCity)
+
+![Last Commit](https://img.shields.io/github/last-commit/saeedburgawi/HumanizeCity)
+
+![Issues](https://img.shields.io/github/issues/saeedburgawi/HumanizeCity)
+
+![Stars](https://img.shields.io/github/stars/saeedburgawi/HumanizeCity)
+
+![Contributors](https://img.shields.io/github/contributors/saeedburgawi/HumanizeCity)
 
 </p>
 
@@ -21,113 +28,30 @@
 
 # Overview
 
-HumanizeCity is an open-source ecosystem that integrates architecture, urban planning, GIS, data science, and artificial intelligence to support evidence-based urban decision-making.
+HumanizeCity is an open-source ecosystem that integrates architecture, urban planning, geographic information systems (GIS), data science, and artificial intelligence to support evidence-based, human-centered urban development.
 
-Rather than being a single software application, HumanizeCity is designed as a collaborative ecosystem of reusable tools, datasets, methodologies, and research resources that enable researchers, practitioners, educators, and public organizations to better understand, analyze, and improve cities.
-
-The project promotes transparent, reproducible, and human-centered approaches to urban research while encouraging collaboration across disciplines.
+Rather than being a single software application, HumanizeCity provides a growing collection of interoperable tools, datasets, methodologies, and research resources designed to bridge the gap between academic research and real-world urban practice.
 
 ---
 
 # Why HumanizeCity?
 
-Cities generate enormous amounts of spatial, environmental, behavioral, and socioeconomic data.
+Urban research has never produced more knowledge, yet much of that knowledge remains difficult to translate into practical planning tools.
 
-At the same time, valuable research often remains locked inside journal articles, reports, and isolated software tools, making it difficult to reuse or translate into practical urban solutions.
-
-HumanizeCity bridges this gap by transforming research outputs into open-source digital tools that support evidence-based planning and human-centered urban development.
+HumanizeCity aims to change this by transforming research outputs into reusable open-source software, enabling researchers, planners, architects, public agencies, and educators to build upon shared knowledge rather than isolated projects.
 
 ---
 
 # Key Features
 
 - 🏙 Human-centered urban analytics
-- 🗺 Geographic Information Systems (GIS)
+- 🗺 GIS and spatial analysis
 - 🤖 AI-assisted planning
-- 📊 Interactive urban visualization
-- 📚 Reproducible research workflows
+- 📊 Interactive dashboards
 - 🌍 Open urban datasets
-- 🔬 Research methodologies
-- 🧩 Modular and extensible architecture
-- 🎓 Academic and educational support
-
----
-
-# From Research to Practice
-
-HumanizeCity is built around a simple principle:
-
-> **Research should not end with publication.**
-
-The project transforms:
-
-- Research methodologies
-- Urban indicators
-- Planning frameworks
-- Design standards
-- Decision-support models
-
-into reusable open-source software that supports researchers, practitioners, educators, and decision-makers.
-
-Every module developed within HumanizeCity follows this philosophy.
-
----
-
-# Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Getting Started](docs/getting-started.md) | Project overview and first steps |
-| [Vision](docs/vision.md) | Long-term vision, mission, and guiding principles |
-| [Architecture](docs/architecture.md) | System architecture and component overview |
-| [Methodology](docs/methodology.md) | Research methodology and development workflow |
-| [Datasets](docs/datasets.md) | Available datasets and supported data sources |
-| [Installation](docs/installation.md) | Installation and setup guide |
-| [Roadmap](docs/roadmap.md) | Planned features and future milestones |
-| [Publications](docs/publications.md) | Related academic publications |
-| [FAQ](docs/faq.md) | Frequently asked questions |
-
----
-
-# HumanizeCity Ecosystem
-
-HumanizeCity is envisioned as a growing ecosystem rather than a single repository.
-
-Future projects may include:
-
-| Project | Description |
-|----------|-------------|
-| HumanizeCity Core | Core platform |
-| HumanizeCity Analytics | Urban analytics modules |
-| HumanizeCity GIS | Spatial analysis tools |
-| HumanizeCity AI | AI-assisted planning tools |
-| HumanizeCity Datasets | Open urban datasets |
-| HumanizeCity Research | Research frameworks and methodologies |
-| HumanizeCity Education | Educational resources and tutorials |
-
----
-
-# Project Workflow
-
-<p align="center">
-<img src="docs/images/workflow.png" width="900">
-</p>
-
-The HumanizeCity workflow transforms urban questions into actionable knowledge through an evidence-based process:
-
-**Urban Challenge → Research → Data Collection → Analysis → AI → Visualization → Decision Support**
-
----
-
-# System Architecture
-
-<p align="center">
-<img src="docs/images/architecture.png" width="900">
-</p>
-
-HumanizeCity follows a modular architecture designed to facilitate extensibility, reproducibility, and interoperability across research and planning workflows.
-
-Detailed documentation is available in **docs/architecture.md**.
+- 📚 Reproducible research workflows
+- 🧩 Modular architecture
+- 🎓 Educational and research resources
 
 ---
 
@@ -137,105 +61,202 @@ Detailed documentation is available in **docs/architecture.md**.
 <img src="docs/images/dashboard.png" width="900">
 </p>
 
-The dashboard represents the future direction of HumanizeCity, providing interactive visualization, urban indicators, spatial analytics, and AI-assisted insights for researchers and planners.
+---
+
+# Quick Start
+
+```bash
+git clone https://github.com/saeedburgawi/HumanizeCity.git
+
+cd HumanizeCity
+
+npm install
+
+npm run dev
+```
 
 ---
 
-# Roadmap
+# Documentation
+
+| Document | Description |
+|----------|-------------|
+| 📖 [Getting Started](docs/getting-started.md) | First steps |
+| 🎯 [Vision](docs/vision.md) | Long-term vision |
+| 🏛 [Architecture](docs/architecture.md) | System architecture |
+| 🔬 [Methodology](docs/methodology.md) | Research methodology |
+| 🗂 [Datasets](docs/datasets.md) | Urban datasets |
+| ⚙️ [Installation](docs/installation.md) | Installation guide |
+| 🛣 [Roadmap](docs/roadmap.md) | Future development |
+| 📚 [Publications](docs/publications.md) | Research publications |
+| ❓ [FAQ](docs/faq.md) | Frequently asked questions |
+
+---
+
+<details>
+
+<summary><b>🔄 From Research to Practice</b></summary>
+
+HumanizeCity is founded on a simple principle:
+
+> Research should not end with publication.
+
+The project transforms methodologies, indicators, planning frameworks, design standards, and analytical models into reusable open-source software that supports evidence-based urban decision-making.
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🏛 System Architecture</b></summary>
+
+<p align="center">
+
+<img src="docs/images/architecture.png" width="900">
+
+</p>
+
+The platform follows a modular architecture that integrates architecture, GIS, urban analytics, AI, and data science into a reproducible research workflow.
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🔄 Project Workflow</b></summary>
+
+<p align="center">
+
+<img src="docs/images/workflow.png" width="900">
+
+</p>
+
+The HumanizeCity workflow follows an evidence-based process:
+
+Urban Challenge
+
+↓
+
+Research
+
+↓
+
+Data Collection
+
+↓
+
+Urban Analytics
+
+↓
+
+Artificial Intelligence
+
+↓
+
+Visualization
+
+↓
+
+Decision Support
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🛣 Development Roadmap</b></summary>
 
 ### Near-Term
 
-- Improve documentation
 - GIS integration
-- Urban indicator calculations
 - Interactive dashboards
+- Urban indicators
+- Documentation improvements
 - Initial datasets
-- AI-ready architecture
 
 ### Long-Term
 
 - Public API
 - AI-assisted planning
-- Mobile data collection
-- Open urban datasets
-- Multi-city comparative analysis
-- Digital Twin integration
-- Machine Learning models
+- Digital Twin support
 - Explainable AI
+- Machine learning models
+- Multi-city comparison
+- Mobile data collection
 
-Complete roadmap:
+</details>
 
-➡️ **docs/roadmap.md**
+---
+
+<details>
+
+<summary><b>🌍 HumanizeCity Ecosystem</b></summary>
+
+Future repositories may include:
+
+| Repository | Purpose |
+|------------|---------|
+| HumanizeCity Core | Core platform |
+| HumanizeCity Analytics | Urban analytics |
+| HumanizeCity GIS | GIS modules |
+| HumanizeCity AI | AI tools |
+| HumanizeCity Datasets | Open datasets |
+| HumanizeCity Research | Research framework |
+| HumanizeCity Education | Learning resources |
+
+</details>
 
 ---
 
 # Contributing
 
-Contributions from researchers, architects, planners, GIS specialists, developers, students, and public organizations are welcome.
+Contributions are welcome from researchers, architects, planners, GIS professionals, developers, students, and public organizations.
 
-Before contributing, please read:
+Please read:
 
 - CONTRIBUTING.md
 - CODE_OF_CONDUCT.md
 
-Whether your contribution involves code, documentation, datasets, research methods, or ideas, it is appreciated.
+before opening Issues or Pull Requests.
 
 ---
 
 # Community
 
-HumanizeCity aims to build an open and collaborative research community around human-centered urban analytics.
+We welcome collaboration through:
 
-We encourage:
-
-- Research collaborations
-- Open datasets
-- Community discussions
 - Feature proposals
+- Bug reports
+- Documentation improvements
+- Research collaboration
+- Open datasets
 - Academic contributions
-- Software development
-
----
-
-# License
-
-This project is distributed under the MIT License.
-
-See **LICENSE** for details.
 
 ---
 
 # Citation
 
-If you use HumanizeCity in research, publications, teaching, or professional practice, please cite this repository.
+If HumanizeCity contributes to your research, teaching, or professional work, please cite this repository.
 
-Support for **CITATION.cff** will be included in an upcoming release.
+Support for `CITATION.cff` will be added in a future release.
 
 ---
 
-# Project Status
+# License
 
-**Current Version**
+Distributed under the MIT License.
 
-`v0.1.0`
-
-Current release includes:
-
-- Initial project structure
-- Documentation
-- Community standards
-- GitHub Actions
-- GitHub Pages
-- Development roadmap
-
-HumanizeCity is under active development, and new modules will be introduced incrementally through future releases.
+See the LICENSE file for details.
 
 ---
 
 <p align="center">
 
-**HumanizeCity**
+### HumanizeCity
 
-Building better cities through open science, human-centered design, and collaborative innovation.
+**Building Better Cities Through Open Science, Human-Centered Design, and Collaborative Innovation.**
 
 </p>
