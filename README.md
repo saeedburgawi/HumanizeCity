@@ -12,7 +12,8 @@ Open-source platform for human-centered urban analytics, architectural research,
 
 | Document | Description |
 |----------|-------------|
-| [Introduction](docs/introduction.md) | Project vision, objectives, and target users |
+| [Introduction](docs/introduction.md) | Project overview and quick introduction |
+| [Vision](docs/vision.md) | Long-term vision, mission, and guiding principles |
 | [Architecture](docs/architecture.md) | System architecture and component overview |
 | [Methodology](docs/methodology.md) | Research methodology and design principles |
 | [Installation](docs/installation.md) | Installation and setup guide |
